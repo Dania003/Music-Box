@@ -12,3 +12,8 @@ For this project, we have used two LCD 1602 display modules to present the resul
 In conclusion, this puzzle is designed to provide a challenging and interactive escape room experience to the users, engaging them in a unique music challenge that tests their musical abilities. With its user-friendly and enjoyable design, it is sure to provide a fun-filled experience to the users.
 
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="img" src="https://raw.githubusercontent.com/Dania003/Music-Box/main/Untitled%20drawing%20(17).jpg">
+</picture>
